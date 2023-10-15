@@ -1,3 +1,3 @@
 # UnityCucumber
 UnityCucumberGame
-You need to run simple scene!
+You need to run sample scene!
